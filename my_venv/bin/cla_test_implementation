@@ -1,0 +1,7 @@
+#!/Users/appler/Desktop/comp-lin-alg-course/my_venv/bin/python3
+# EASY-INSTALL-DEV-SCRIPT: 'comp-lin-alg-course==2021.0','cla_test_implementation'
+__requires__ = 'comp-lin-alg-course==2021.0'
+__import__('pkg_resources').require('comp-lin-alg-course==2021.0')
+__file__ = '/Users/appler/Desktop/comp-lin-alg-course/scripts/cla_test_implementation'
+with open(__file__) as f:
+    exec(compile(f.read(), __file__, 'exec'))
